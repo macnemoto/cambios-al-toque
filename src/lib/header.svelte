@@ -8,7 +8,7 @@
     <img class="h-16 w-80 object-cover pl-3" src={logo} alt="">
 
 </header> -->
-<Navbar class="!bg-custom-purple" let:hidden let:toggle>
+<Navbar class="!bg-custom-purple " let:hidden let:toggle>
     <NavBrand href="/">
       <img
         src={logo}

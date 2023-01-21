@@ -356,7 +356,7 @@ packages:
 
   /@sveltejs/kit/1.1.4_svelte@3.55.1+vite@4.0.4:
     resolution: {integrity: sha512-FHt8j8PgwhgeA41WTJfD8yQdOmzRY1v6ORtyXjzbzIZ+106LTclRpywnFoKxACEilAQHdGLAivVf9bRHkW1LLQ==}
-    engines: {node: ^16.14 || >=18}
+    engines: {node: ^14.14 || >=18}
     hasBin: true
     requiresBuild: true
     peerDependencies:

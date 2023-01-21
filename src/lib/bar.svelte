@@ -1,14 +1,14 @@
-<div class="grid gap-4 grid-cols-3 grid-rows-3 justify-items-center bg-sky-900 mt-10">
-    <div class="col-span-1 flex items-center">
-        <h3 class="text-2xl text-white">+30.000</h3>
-        <p class="text-gray-400">Bitcoins vendidos</p>
+<div class="flex justify-evenly items-center bg-sky-900 mt-16 px-5 py-5">
+    <div class="flex flex-col justify-center items-center text-center ">
+        <h3 class="text-xl xl:text-3xl text-white font-bold">+30.000</h3>
+        <p class="text-gray-400 text-sm xl:text-xl">Bitcoins vendidos</p>
     </div>
-    <div class="col-span-1 flex items-center">
-        <h3 class="text-2xl text-white">+4</h3>
-        <p class="text-gray-400">Años de experiencia</p>
+    <div class="flex flex-col justify-center items-center text-center ">
+        <h3 class="text-xl xl:text-3xl text-white font-bold">+4</h3>
+        <p class="text-gray-400 text-sm xl:text-xl">Años de experiencia</p>
     </div>
-    <div class="col-span-1 flex items-center">
-        <h3 class="text-2xl text-white">+200M USD</h3>
-        <p class="text-gray-400">Transados</p>
+    <div class="flex flex-col justify-center items-center text-center ">
+        <h3 class="text-xl xl:text-3xl text-white font-bold">+200M USD</h3>
+        <p class="text-gray-400 text-sm xl:text-xl">Transados</p>
     </div>
 </div>

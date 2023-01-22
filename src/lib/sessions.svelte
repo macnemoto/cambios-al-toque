@@ -3,12 +3,12 @@
 	import start from '../lib/img/HeroCrypto.svg';
 </script>
 
-<div class="mt-16 px-5 flex flex-col lg:flex lg:flex-row lg:mx-20 lg:mt-20 lg:px-6 2xl:mx-64">
-	<div class="flex flex-col justify-center items-center sm:pr-5  lg:justify-center lg:items-start">
-		<h1 class="text-4xl text-white text-center lg:text-left  font-bold mb-3">
+<div class="mt-16 px-5 flex flex-col lg:flex lg:flex-row lg:mx-1 lg:mt-20 lg:px-1 xl:mx-20 2xl:mx-64">
+	<div class="flex flex-col justify-center items-center sm:pr-5  md:px-4 xl:justify-center xl:items-start">
+		<h1 class="text-4xl text-white text-center xl:text-left xl:text-5xl font-bold mb-3">
 			Compra criptomonedas sin pagar comisiones
 		</h1>
-		<p class="text-center lg:text-left text-slate-600">
+		<p class="text-center xl:text-left text-slate-600">
 			Compra fácilmente bitcoins, USDT y otras criptomonedas en menos de 7 minutos y recíbelas en
 			cualquier parte del mundo.
 		</p>

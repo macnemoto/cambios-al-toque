@@ -12,7 +12,7 @@
 </div>
 
 
-<div class="grid gap-10 grid-cols-1 grid-rows-1  md:grid-cols-2 md:grid-rows-2 lg:grid-cols-3 lg:grid-rows-3 2xl:px-80 px-5 ">
+<div class="grid gap-10 grid-cols-1 grid-rows-1  md:grid-cols-2 md:grid-rows-2 lg:grid-cols-3 lg:grid-rows-2 2xl:px-80 px-5 ">
   <div class="flex flex-col justify-center items-center bg-sky-900  rounded-lg  py-5 px-5 min-h-200">
     <img src="https://www.casacoins.com/landing/Feature1.svg" alt="">
     <h3 class="text-white text-2xl font-bold text-center mb-4 mt-4">Sin comisiones por compra</h3>

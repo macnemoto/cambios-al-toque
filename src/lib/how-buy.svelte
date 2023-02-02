@@ -35,7 +35,7 @@
 		</div>
 		<div>
 			<h3 class="text-xl text-white text-center my-3 font-bold">Compra criptomonedas</h3>
-			<p class="text-gray-400 text-center text-sm xl:pl-5 2xl:pl-10 ">
+			<p class="text-gray-400 text-center text-sm xl:pl-5 2xl:pl-10 mb-16">
 				Compra con transferencia bancaria. Recibirás tus criptomonedas en tu wallet de destino.
 			</p>
             

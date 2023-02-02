@@ -5,7 +5,7 @@
 
 <div class="mt-16 px-5 flex flex-col lg:flex lg:flex-row lg:mx-1 lg:mt-20 lg:px-1 xl:mx-20 2xl:mx-64">
 	<div class="flex flex-col justify-center items-center sm:pr-5  md:px-4 xl:justify-center xl:items-start">
-		<h1 class="text-4xl text-white text-center xl:text-left xl:text-5xl font-bold mb-3">
+		<h1 class="text-4xl text-white text-center xl:text-left xl:text-5xl font-bold mb-7">
 			Compra criptomonedas sin pagar comisiones
 		</h1>
 		<p class="text-center xl:text-left text-slate-600">

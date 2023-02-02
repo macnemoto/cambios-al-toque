@@ -8,6 +8,7 @@ const config = {
 			colors: {
 			  'custom-purple': '#220358',
 			  'custom-black':'#050D25',
+			  'custom-footer':'#1C234A',
 			},
 		  }
 	},

@@ -13,14 +13,14 @@
 			<p class=" text-center text-slate-600 mb-2 xl:text-start">
 				Nuestros operadores te atenderán enseguida.
 			</p>
-			<p class="text-white font-bold text-center mb-2 lg:text-start">Asistencia ventas</p>
+			<p class="text-white font-bold text-center mb-2 xl:text-start">Asistencia ventas</p>
 			<div class="flex flex-col justify-center items-center xl:justify-start xl:items-start">
 				<Button class="mx-10 my-2 sm:mx-52 md:mx-10 xl:mx-0 2xl:my-5" gradient color="greenToBlue">
 					<img class="w-5 mr-2" src="https://www.casacoins.com/landing/WhatsApp.svg" alt="" /> Quiero
 					registrarme como comprador</Button
 				>
 
-				<p class="text-white font-bold">Horario de atención:</p>
+				<p class="text-white font-bold mb-1">Horario de atención:</p>
 				<p class=" text-center text-slate-600 mb-1">Lunes a viernes - 09:30 a 18:30 hrs</p>
 				<p class=" text-center text-slate-600 mb-1">Sábado - 10:00 a 14:00 hrs</p>
 			</div>

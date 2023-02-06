@@ -21,9 +21,9 @@
     </NavBrand>
     <NavHamburger on:click={toggle} />
     <NavUl {hidden} class="text-white sm:flex sm:items-center sm:justify-center">
-      <NavLi class="!text-black sm:!text-white " href="/">Iniciar sesión</NavLi>
+      <NavLi class="!text-black sm:!text-white " href="/login">Iniciar sesión</NavLi>
       <NavLi class="!text-white sm:hidden block " active={true} href="/registrase">Registrase</NavLi>
-      <NavLi class="!text-white hidden sm:block" href="/about"><Button gradient color="purple" class="">Registrase</Button></NavLi>
+      <NavLi class="!text-white hidden sm:block" href="/register"><Button gradient color="purple" class="">Registrase</Button></NavLi>
       <!-- <NavLi class="!text-white" href="/services">Services</NavLi>
       <NavLi class="!text-white" href="/pricing">Pricing</NavLi>
       <NavLi class="!text-white" href="/contact">Contact</NavLi> -->
